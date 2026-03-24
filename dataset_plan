@@ -25,3 +25,10 @@ Summer / high-heat period with manageable cloud cover
 
 ## Modeling Unit
 Raster pixels or sampled grid cells
+
+## Open Questions
+- Which exact date range should be used?
+- How will LST be derived or sourced?
+- Which land cover product is best for the study area?
+- Should water be represented as a binary mask or distance-to-water feature?
+- What spatial resolution will be used for the final modeling table?
