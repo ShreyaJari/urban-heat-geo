@@ -1,1 +1,27 @@
+# Dataset Plan
 
+## Study Area
+Nagpur, India
+
+## Primary Target
+Land Surface Temperature (LST)
+
+## Version 1 Features
+- NDVI
+- NDBI
+- Land cover
+- Elevation
+- Water presence / water mask
+
+## Candidate Data Sources
+- Landsat 8/9
+- Sentinel-2
+- SRTM DEM
+- Land cover dataset
+- Water mask source
+
+## Initial Time Window
+Summer / high-heat period with manageable cloud cover
+
+## Modeling Unit
+Raster pixels or sampled grid cells
